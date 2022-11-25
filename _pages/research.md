@@ -78,12 +78,12 @@ permalink: /research/
 <ol reversed="">
 <li><a class="pubTitle" href="https://arxiv.org/abs/2204.06868" id="ide">Program Analysis of Probabilistic Programs</a><br>
 <b>Maria I. Gorinova</b><br>
-<i>PhD dissertation, University of Edinburgh, 2021 </i>
+<i>PhD dissertation, University of Edinburgh, 2021</i>
 </li>
 <li><a class="pubTitle" href="files/slicstan.pdf" id="ide">Probabilistic Programming with SlicStan</a><br>
 <b>Maria I. Gorinova</b><br>
 <!--[MSc(R) Data Science Dissertation Prize](../images/award3.png)--> 
-Master of Science by Research dissertation, University of Edinburgh, 2017 
+<i>Master of Science by Research dissertation, University of Edinburgh, 2017</i>
 </li>
 <li><a class="pubTitle" href="files/gorinova_diss.pdf" id="ide">Interactive Development Environment for Probabilistic Programming</a><br>
 <b>Maria I. Gorinova</b><br>

@@ -34,8 +34,8 @@ permalink: /research/
 				<li>
 				<a class="pubTitle" href="http://approximateinference.org/2018/accepted/GorinovaEtAl2018.pdf">Automatic Reparameterisation in Probabilistic Programming</a><br>
 				<b>Maria I. Gorinova</b>, Dave Moore, Matthew D. Hoffman<br>
-			        <i><img src="../images/award3.png" style="width:20px; align=" left"=" title="Travel Award">
-				Symposium on Advances in Approximate Bayesian Inference<span class="conferenceSlug"> (AABI 2018)</span></i><br>
+			        <!--<img src="../images/award3.png" style="width:20px; align=" left"=" title="Travel Award">-->
+				<i>Symposium on Advances in Approximate Bayesian Inference<span class="conferenceSlug"> (AABI 2018)</span></i><br>
 				</li>
 				<li>
 				<a class="pubTitle" href="https://arxiv.org/abs/1811.06150">Effect Handling for Composable Program Transformations in Edward2</a><br>
@@ -82,8 +82,8 @@ permalink: /research/
 </li>
 <li><a class="pubTitle" href="https://homepages.inf.ed.ac.uk/s1207807/files/slicstan.pdf" id="ide">Probabilistic Programming with SlicStan</a><br>
 <b>Maria I. Gorinova</b><br>
-<i>
-<img src="../images/award3.png" style="width:20px; align=" left"=" title="MSc(R) Data Science Dissertation Prize"> Master of Science by Research dissertation, University of Edinburgh, 2017 </i>
+<!--[MSc(R) Data Science Dissertation Prize](../images/award3.png)--> 
+Master of Science by Research dissertation, University of Edinburgh, 2017 
 </li>
 <li><a class="pubTitle" href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_diss.pdf" id="ide">Interactive Development Environment for Probabilistic Programming</a><br>
 <b>Maria I. Gorinova</b><br>
@@ -114,7 +114,7 @@ permalink: /research/
 	<i>Programming Languages and Software Engineering Group, University of Washington, May 2016</i><br>
 	<i>2016 CHI Conference on Human Factors in Computing Systems, May 2016</i><br>
 	<i>
-		<img src="../images/award3.png" style="width:20px; align=" left"=" title="Young Researcher Prize">
+		<!--<img src="../images/award3.png" style="width:20px; align=" left"=" title="Young Researcher Prize">-->
 		3<sup>rd</sup> Oxbridge Women in Computer Science Conference, 10 March 2016
 	</i></p>			
 </li>

@@ -34,7 +34,7 @@ permalink: /research/
 				<li>
 				<a class="pubTitle" href="http://approximateinference.org/2018/accepted/GorinovaEtAl2018.pdf">Automatic Reparameterisation in Probabilistic Programming</a><br>
 				<b>Maria I. Gorinova</b>, Dave Moore, Matthew D. Hoffman<br>
-			        <i><img src="./images/award3.png" style="width:20px; align=" left"=" title="Travel Award">
+			        <i><img src="../images/award3.png" style="width:20px; align=" left"=" title="Travel Award">
 				Symposium on Advances in Approximate Bayesian Inference<span class="conferenceSlug"> (AABI 2018)</span></i><br>
 				</li>
 				<li>
@@ -74,15 +74,73 @@ permalink: /research/
 				</li>
 			</ol>
 
-## Theses
-* ...
-* ...
+## Dissertations
+<ol reversed="">
+<li><a class="pubTitle" href="https://arxiv.org/abs/2204.06868" id="ide">Program Analysis of Probabilistic Programs</a><br>
+<b>Maria I. Gorinova</b><br>
+<i>PhD dissertation, University of Edinburgh, 2021 </i>
+</li>
+<li><a class="pubTitle" href="https://homepages.inf.ed.ac.uk/s1207807/files/slicstan.pdf" id="ide">Probabilistic Programming with SlicStan</a><br>
+<b>Maria I. Gorinova</b><br>
+<i>
+<img src="../images/award3.png" style="width:20px; align=" left"=" title="MSc(R) Data Science Dissertation Prize"> Master of Science by Research dissertation, University of Edinburgh, 2017 </i>
+</li>
+<li><a class="pubTitle" href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_diss.pdf" id="ide">Interactive Development Environment for Probabilistic Programming</a><br>
+<b>Maria I. Gorinova</b><br>
+<i>Bachelor of Arts dissertation, University of Cambridge, 2015</i>
+</li>
+</ol>
 
 ## Talks
-* ...
-* ...
+<ol reversed="">
+<li>Probabilistic Programming: The What, Why and How<br>	
+	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/ppl_intro_slides.pdf">PDF slides</a>]<br>
+	<i class="venue">F# eXchange, Keynote, April  2019</i><br>
+	<i class="venue">Advances in Programming Languages, Guest Lecture, University of Edinburgh, November 2018</i><br>
+</li>
+<li>Probabilistic Programming with SlicStan<br>
+	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_slicstan_slides.pdf">PDF slides</a>] [<a href="https://www.youtube.com/watch?v=WTqnehdFNbo">Video</a>]<br>
+	<i class="venue">PROBPROG 2018, Invited Talk, October 2018</i><br>
+	<i class="venue">StanCon 2018, January 2018</i><br>
+	<i class="venue">PPS Workshop at POPL 2018, January 2018</i><br>	
+</li>
+<li>Data Wrangling for End-Users in Healthcare<br>
+	<i class="venue">Microsoft Redmond, May 2016</i>	
+</li>
+<li>A Live, Multiple-Representation Probabilistic Programming Environment for Novices<br>
+	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_ppide_short_slides.pdf">PDF slides (short)</a>] [<a href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_ppide_long_slides.pdf">PDF slides (long)</a>] [<a href="https://www.youtube.com/watch?v=bmNlM0RnyVg">Video</a>]<br>
+	<p class="venue">
+	<i>Advances in Programming Languages, Guest Lecture, University of Edinburgh, November 2016</i><br>
+	<i>Programming Languages and Software Engineering Group, University of Washington, May 2016</i><br>
+	<i>2016 CHI Conference on Human Factors in Computing Systems, May 2016</i><br>
+	<i>
+		<img src="../images/award3.png" style="width:20px; align=" left"=" title="Young Researcher Prize">
+		3<sup>rd</sup> Oxbridge Women in Computer Science Conference, 10 March 2016
+	</i></p>			
+</li>
+<li>Proving Conditional Termination<br>
+	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/conditional_termination_slides.pdf">PDF slides</a>]<br>
+	<p class="venue">
+	<i>Program Specification and Verification Group, Imperial College London, 24 February 2016</i><br>
+	<i>Vienna Center for Logic and Algorithms, TU Wien, 8 February 2016</i><br>
+	<i>RiSE Seminar, IST Austria, 12 November 2015</i><br>
+	<i>Software Reliability Lab, ETH Zurich, 9 October 2015</i>			
+	</p>
+</li>
+</ol>
 
 ## Professional service
-* ...
-* ...
+<ol reversed="">
+	<li>Organiser: <a href="https://diffprogramming.mit.edu/">Differentiable Programming Workshop (NeurIPS 2021)</a>
+	</li>
+	<li>Area Chair: <a href="https://aistats.org/">AISTATS 2023</a> </li>
+	<li>Reviewer: <a href="https://probprog.cc/">PROBPROG</a>,
+		      <a href="https://iclr.cc/">ICLR</a>,
+		      <a href="http://approximateinference.org/">AABI</a>,
+		      <a href="https://popl21.sigplan.org/home/lafi-2021">LAFI</a>,
+		      <a href="https://nips.cc/">NeurIPS</a>,
+		      <a href="https://icml.cc/">ICML</a>,
+		      <a href="http://www.ppig.org/">PPIG</a></li>
+
+</ol>
 

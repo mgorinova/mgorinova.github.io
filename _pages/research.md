@@ -80,26 +80,27 @@ permalink: /research/
 <b>Maria I. Gorinova</b><br>
 <i>PhD dissertation, University of Edinburgh, 2021 </i>
 </li>
-<li><a class="pubTitle" href="https://homepages.inf.ed.ac.uk/s1207807/files/slicstan.pdf" id="ide">Probabilistic Programming with SlicStan</a><br>
+<li><a class="pubTitle" href="files/slicstan.pdf" id="ide">Probabilistic Programming with SlicStan</a><br>
 <b>Maria I. Gorinova</b><br>
 <!--[MSc(R) Data Science Dissertation Prize](../images/award3.png)--> 
 Master of Science by Research dissertation, University of Edinburgh, 2017 
 </li>
-<li><a class="pubTitle" href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_diss.pdf" id="ide">Interactive Development Environment for Probabilistic Programming</a><br>
+<li><a class="pubTitle" href="files/gorinova_diss.pdf" id="ide">Interactive Development Environment for Probabilistic Programming</a><br>
 <b>Maria I. Gorinova</b><br>
 <i>Bachelor of Arts dissertation, University of Cambridge, 2015</i>
 </li>
 </ol>
 
+<!--
 ## Talks
 <ol reversed="">
 <li>Probabilistic Programming: The What, Why and How<br>	
-	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/ppl_intro_slides.pdf">PDF slides</a>]<br>
+	[<a href="files/ppl_intro_slides.pdf">PDF slides</a>]<br>
 	<i class="venue">F# eXchange, Keynote, April  2019</i><br>
 	<i class="venue">Advances in Programming Languages, Guest Lecture, University of Edinburgh, November 2018</i><br>
 </li>
 <li>Probabilistic Programming with SlicStan<br>
-	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_slicstan_slides.pdf">PDF slides</a>] [<a href="https://www.youtube.com/watch?v=WTqnehdFNbo">Video</a>]<br>
+	[<a href="files/gorinova_slicstan_slides.pdf">PDF slides</a>] [<a href="https://www.youtube.com/watch?v=WTqnehdFNbo">Video</a>]<br>
 	<i class="venue">PROBPROG 2018, Invited Talk, October 2018</i><br>
 	<i class="venue">StanCon 2018, January 2018</i><br>
 	<i class="venue">PPS Workshop at POPL 2018, January 2018</i><br>	
@@ -108,7 +109,7 @@ Master of Science by Research dissertation, University of Edinburgh, 2017
 	<i class="venue">Microsoft Redmond, May 2016</i>	
 </li>
 <li>A Live, Multiple-Representation Probabilistic Programming Environment for Novices<br>
-	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_ppide_short_slides.pdf">PDF slides (short)</a>] [<a href="https://homepages.inf.ed.ac.uk/s1207807/files/gorinova_ppide_long_slides.pdf">PDF slides (long)</a>] [<a href="https://www.youtube.com/watch?v=bmNlM0RnyVg">Video</a>]<br>
+	[<a href="files/gorinova_ppide_short_slides.pdf">PDF slides (short)</a>] [<a href="files/gorinova_ppide_long_slides.pdf">PDF slides (long)</a>] [<a href="https://www.youtube.com/watch?v=bmNlM0RnyVg">Video</a>]<br>
 	<p class="venue">
 	<i>Advances in Programming Languages, Guest Lecture, University of Edinburgh, November 2016</i><br>
 	<i>Programming Languages and Software Engineering Group, University of Washington, May 2016</i><br>
@@ -119,7 +120,7 @@ Master of Science by Research dissertation, University of Edinburgh, 2017
 	</i></p>			
 </li>
 <li>Proving Conditional Termination<br>
-	[<a href="https://homepages.inf.ed.ac.uk/s1207807/files/conditional_termination_slides.pdf">PDF slides</a>]<br>
+	[<a href="files/conditional_termination_slides.pdf">PDF slides</a>]<br>
 	<p class="venue">
 	<i>Program Specification and Verification Group, Imperial College London, 24 February 2016</i><br>
 	<i>Vienna Center for Logic and Algorithms, TU Wien, 8 February 2016</i><br>
@@ -128,6 +129,7 @@ Master of Science by Research dissertation, University of Edinburgh, 2017
 	</p>
 </li>
 </ol>
+-->
 
 ## Professional service
 <ol reversed="">

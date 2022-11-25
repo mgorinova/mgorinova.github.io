@@ -115,7 +115,7 @@ permalink: /research/
 	<i>Programming Languages and Software Engineering Group, University of Washington, May 2016</i><br>
 	<i>2016 CHI Conference on Human Factors in Computing Systems, May 2016</i><br>
 	<i>
-		<!--<img src="../images/award3.png" style="width:20px; align=" left"=" title="Young Researcher Prize">-->
+		<img src="../images/award3.png" style="width:20px; align=" left"=" title="Young Researcher Prize">
 		3<sup>rd</sup> Oxbridge Women in Computer Science Conference, 10 March 2016
 	</i></p>			
 </li>

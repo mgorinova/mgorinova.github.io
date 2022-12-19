@@ -20,7 +20,7 @@ avatar: /images/me.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: https://?
+  dribbble:
   email: m.gorinova@gmail.com
   facebook:
   flickr:
@@ -30,14 +30,12 @@ footer-links:
   pinterest:
   rss:
   twitter: migorinova
-  stackoverflow: https://?
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: sigmoid.social/@mig # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
   other: https://post.news/mgorinova
-  web: https://?
-  www: https://?
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account

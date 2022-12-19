@@ -33,8 +33,9 @@ footer-links:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole: https://post.news/mgorinova
+  playconsole:
   mastodon: sigmoid.social/@mig # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
+  other: https://post.news/mgorinova
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account

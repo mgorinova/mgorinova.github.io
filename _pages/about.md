@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-----
+---
 
 I'm Maria, a Machine Learning Researcher at [Micrographia Bio](https://www.micrographiabio.com/). 
 

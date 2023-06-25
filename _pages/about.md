@@ -8,7 +8,8 @@ I'm Maria, a Machine Learning Researcher at [Micrographia Bio](https://www.micro
 
 Previously, I was at Twitter, where I contributed to various projects related to platform health, including [Birdwatch](https://communitynotes.twitter.com/), a tool for crowdsourced misinformation labelling.
 
-I completed a PhD at the University of Edinburgh, advised by Andy Gordon and Charles Sutton. I worked on improving probabilistic programming languages and inference through program analysis.  
+I completed a PhD at the University of Edinburgh, advised by Andy Gordon and Charles Sutton. I worked on improving probabilistic programming languages and inference through program analysis.
+
 Earlier, I was a Research Assistant at the University of Cambridge (the Graphics and Interaction Group), which is also where I obtained my BA from.
 
 [//]: <> (where for my final year project I developed an IDE for Probabilistic Programming.)

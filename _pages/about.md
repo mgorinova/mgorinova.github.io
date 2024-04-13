@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Maria, a Machine Learning Researcher at [Micrographia Bio](https://www.micrographiabio.com/). I have worked on a broad range of machine learning and computer science topics including probabilistic programming, variational inference, graph neural networks and geometric deep learning, programming language design and tooling, and program analysis. I have experience with applications to science, healthcare, and social media. 
+I'm Maria, an AI Research Engineer, currently building something new. I have worked on a broad range of machine learning and computer science topics including probabilistic programming, variational inference, graph neural networks and geometric deep learning, programming language design and tooling, and program analysis. I have experience with applications to science, healthcare, and social media. 
 
 Previously, I was at Twitter, where I contributed to various projects related to platform health, including [Birdwatch](https://communitynotes.twitter.com/), a tool for crowdsourced misinformation labelling.
 
